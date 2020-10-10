@@ -1,0 +1,19 @@
+{
+  "name": "pagesjsonconverter",
+  "version": "1.0.0",
+  "description": "uniapp",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uWydnA/PagesJsonConverter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uWydnA/PagesJsonConverter/issues"
+  },
+  "homepage": "https://github.com/uWydnA/PagesJsonConverter#readme",
+  "dependencies": {
+    "@dcloudio/uni-cli-shared": "^2.0.0-28920200907001"
+  }
+}
