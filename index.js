@@ -87,8 +87,5 @@ class PagesJsonConverter {
     return routes
   }
 }
-const findPages = new PagesJsonConverter({
-  methodsName: { isTabBar: 'switchTab', noTabBar: 'redirectTo' },
-})
-console.log(findPages,'findPages');
+
 module.exports = PagesJsonConverter
